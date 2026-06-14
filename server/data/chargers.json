@@ -1,0 +1,1787 @@
+[
+  {
+    "_id": "ch001",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Adajan Home Garage – Surat",
+    "description": "Private residential driveway charger. Friendly host, safe parking, tea & water. Our main concept — charge from someone's home!",
+    "address": "A-102, Vasanji Nagar, near Star Bazar, Adajan, Surat, Gujarat 395009",
+    "lat": 21.196,
+    "lng": 72.795,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11.5,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch002",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Vesu Bungalow Bharat AC – Surat",
+    "description": "Low-speed Bharat AC wallbox in private bungalow driveway. 24/7 access with CCTV.",
+    "address": "Bungalow 14, Royal Greens, VIP Road, Vesu, Surat, Gujarat 395007",
+    "lat": 21.135,
+    "lng": 72.772,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 8,
+    "markupPercent": 20,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch003",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Katargam Society AC – Surat",
+    "description": "Community Type2 charger in Katargam residential society. Covered parking for all members.",
+    "address": "Shreeji Society, Katargam, Surat, Gujarat 395004",
+    "lat": 21.228,
+    "lng": 72.823,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 10,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch004",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Althan Bungalow Driveway – Surat",
+    "description": "Quiet private driveway in Althan. Host is very welcoming. Great for overnight top-up.",
+    "address": "Bungalow 3, Althan Tenament, Althan, Surat, Gujarat 395017",
+    "lat": 21.162,
+    "lng": 72.826,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch005",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Pal Gaon Home Charger – Surat",
+    "description": "Residential flat ground-floor parking with Type2 outlet. Easy access lane.",
+    "address": "Ganga Jamuna Society, Pal Gaon, Surat, Gujarat 395009",
+    "lat": 21.172,
+    "lng": 72.762,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 10.5,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch006",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Surat Ring Road DC Hub",
+    "description": "High speed CCS dual-gun charger in hotel parking lot. 24/7 access with food nearby.",
+    "address": "Ring Rd, near Sahara Darwaja, Surat, Gujarat 395002",
+    "lat": 21.1895,
+    "lng": 72.8398,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 18.5,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch007",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Piplod Home Wallbox – Surat",
+    "description": "Personal AC wallbox in Piplod society basement. No fuss, just plug and charge.",
+    "address": "Park Avenue Society, Piplod, Surat, Gujarat 395007",
+    "lat": 21.143,
+    "lng": 72.781,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 10,
+    "markupPercent": 22,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch008",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Ahmedabad SG Highway 120kW DC",
+    "description": "Rapid 120kW CCS at Dev Arc Mall. Shop while your car charges fully in 45 mins.",
+    "address": "SG Highway, near ISKCON Cross Rd, Ahmedabad, Gujarat 380015",
+    "lat": 23.0245,
+    "lng": 72.5074,
+    "connectorType": "CCS",
+    "speedKw": 120,
+    "pricePerKwh": 22,
+    "markupPercent": 50,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch009",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Satellite Home AC – Ahmedabad",
+    "description": "Type2 charger in a private home in Satellite area. Host: Priya ben. Very welcoming family.",
+    "address": "201, Shantiniketan Society, Satellite, Ahmedabad, Gujarat 380015",
+    "lat": 23.034,
+    "lng": 72.518,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch010",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Navrangpura Home Driveway – Ahmedabad",
+    "description": "Neat residential driveway near Gujarat University. Ideal for students and professors.",
+    "address": "Navrangpura, near Gujarat University, Ahmedabad, Gujarat 380009",
+    "lat": 23.044,
+    "lng": 72.556,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch011",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Vadodara Alkapuri AC Charger",
+    "description": "AC wallbox at office complex. Secure covered parking included.",
+    "address": "Alkapuri Rd, opposite Alkapuri Club, Vadodara, Gujarat 390007",
+    "lat": 22.3112,
+    "lng": 73.1695,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch012",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Rajkot Kalawad Road DC",
+    "description": "50kW DC fast charger at a petrol pump. Refreshments and restrooms available.",
+    "address": "Kalawad Rd, near Aji Dam, Rajkot, Gujarat 360005",
+    "lat": 22.2916,
+    "lng": 70.7636,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 16,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch013",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Gandhinagar Sector 11 Bharat AC",
+    "description": "Affordable Bharat AC for daily commuters. Close to government offices.",
+    "address": "Sector 11, Gandhinagar, Gujarat 382011",
+    "lat": 23.2201,
+    "lng": 72.642,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 8.5,
+    "markupPercent": 20,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch014",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Navsari NH-48 Home Stop",
+    "description": "Slow AC charger at private house front-yard on highway. Toilet and water available.",
+    "address": "National Highway 48, near Navsari, Gujarat 396445",
+    "lat": 20.9592,
+    "lng": 72.943,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch020",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Bandra West Private Driveway – Mumbai",
+    "description": "CCS charger in secure society garage. Host: Nishant. Safe and clean, 24/7.",
+    "address": "Carter Rd, Bandra West, Mumbai, Maharashtra 400050",
+    "lat": 19.06,
+    "lng": 72.823,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 24.5,
+    "markupPercent": 50,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch021",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Andheri West Home AC – Mumbai",
+    "description": "Type2 home charger near DN Nagar Metro. Park and charge while commuting.",
+    "address": "DN Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "lat": 19.128,
+    "lng": 72.836,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 14,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch022",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Juhu Tara Road Driveway – Mumbai",
+    "description": "Residential driveway near Juhu Beach. Gated society with security. Walk on the beach!",
+    "address": "Plot 45, Juhu Tara Rd, near Juhu Beach, Mumbai 400049",
+    "lat": 19.102,
+    "lng": 72.826,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 15,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch023",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Worli Sea Face Residential – Mumbai",
+    "description": "11kW Type2 in high-rise society parking. Secure overnight charging allowed.",
+    "address": "Block C, Sea Breeze Apts, Worli Sea Face, Mumbai 400030",
+    "lat": 19.008,
+    "lng": 72.815,
+    "connectorType": "Type2",
+    "speedKw": 11,
+    "pricePerKwh": 18,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch024",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Chembur Society Charger – Mumbai",
+    "description": "Community charger in quiet Chembur neighborhood. Close to Eastern Express Highway.",
+    "address": "Central Avenue Rd, near Diamond Garden, Chembur, Mumbai 400071",
+    "lat": 19.062,
+    "lng": 72.898,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch025",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Powai Lake Society AC – Mumbai",
+    "description": "Home AC outlet shared by a Hiranandani resident. Serene location by the lake.",
+    "address": "Hiranandani Gardens, Powai, Mumbai 400076",
+    "lat": 19.118,
+    "lng": 72.906,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 14,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch026",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Malad West Driveway Wallbox – Mumbai",
+    "description": "Private driveway in Malad West. Host: Sanjay bhai. Very accessible from highway.",
+    "address": "Evershine Nagar, Malad West, Mumbai 400064",
+    "lat": 19.186,
+    "lng": 72.841,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch030",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Koregaon Park Home AC – Pune",
+    "description": "Private bungalow driveway in KP. Safe for overnight. Cafes and nightlife nearby.",
+    "address": "Lane 5, Koregaon Park, Pune, Maharashtra 411001",
+    "lat": 18.5392,
+    "lng": 73.8925,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13.5,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch031",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Kothrud Bungalow Private Charger – Pune",
+    "description": "Quiet private driveway in green Kothrud lane. Great for remote work & long charge.",
+    "address": "Bungalow 7, Rambaug Colony, Kothrud, Pune 411038",
+    "lat": 18.5074,
+    "lng": 73.8077,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch032",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Viman Nagar Residential Dock – Pune",
+    "description": "AC socket in residential basement. Safe overnight parking near Datta Mandir Chowk.",
+    "address": "Pine Court Apts, Viman Nagar, Pune 411014",
+    "lat": 18.5679,
+    "lng": 73.9143,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 9,
+    "markupPercent": 20,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch033",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Baner Road Society AC – Pune",
+    "description": "Gated society home charger in Baner. Close to Balewadi Sports Complex.",
+    "address": "Swanand Society, Baner Rd, Pune 411045",
+    "lat": 18.561,
+    "lng": 73.788,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11.5,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch034",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Hinjewadi IT Park Fast DC – Pune",
+    "description": "120kW DC charger inside IT park. Quick top-up for tech workers.",
+    "address": "Phase 1, Hinjewadi, Pune 411057",
+    "lat": 18.5912,
+    "lng": 73.7389,
+    "connectorType": "CCS",
+    "speedKw": 120,
+    "pricePerKwh": 20,
+    "markupPercent": 45,
+    "photos": [
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch035",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Nagpur Sitabuldi Local AC",
+    "description": "Type2 near Nagpur city center and railway station. Affordable local charger.",
+    "address": "Sitabuldi, Nagpur, Maharashtra 440012",
+    "lat": 21.1458,
+    "lng": 79.0882,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch040",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Lonavala Expressway Pitstop DC",
+    "description": "Rapid CCS charger at Sunny Da Dhaba parking. Stop, eat, and charge en route Pune-Mumbai.",
+    "address": "Mumbai-Pune Expressway, Lonavala, Maharashtra 410401",
+    "lat": 18.761,
+    "lng": 73.435,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 19,
+    "markupPercent": 50,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch041",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Khalapur Toll DC Charger",
+    "description": "CCS fast charger at Khalapur food court on the expressway. Rest and recharge.",
+    "address": "Mumbai-Pune Expressway, Khalapur, Maharashtra 410202",
+    "lat": 18.82,
+    "lng": 73.28,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 20,
+    "markupPercent": 45,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch050",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Connaught Place 150kW DC – Delhi",
+    "description": "Premium 150kW fast charger underground at CP. 24/7 security access.",
+    "address": "Connaught Place, New Delhi 110001",
+    "lat": 28.6315,
+    "lng": 77.2167,
+    "connectorType": "CCS",
+    "speedKw": 150,
+    "pricePerKwh": 22,
+    "markupPercent": 50,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch051",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Dwarka Sector 21 Home AC – Delhi",
+    "description": "Residential society home charger near metro. Perfect for overnight charging.",
+    "address": "Sector 21, Dwarka, New Delhi 110077",
+    "lat": 28.5521,
+    "lng": 77.0581,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch052",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Vasant Kunj Bungalow Dock – Delhi",
+    "description": "Clean AC charging in Sector C bungalow. Dedicated EV parking under shade.",
+    "address": "Pocket 8, Sector C, Vasant Kunj, New Delhi 110070",
+    "lat": 28.5292,
+    "lng": 77.1522,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13.5,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch053",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Lajpat Nagar Colony Home – Delhi",
+    "description": "Private driveway in Lajpat Nagar. Host: Meena aunty. Very clean and safe.",
+    "address": "Block B, Lajpat Nagar II, New Delhi 110024",
+    "lat": 28.569,
+    "lng": 77.243,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12.5,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch054",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Rohini Sector 7 Home Charger – Delhi",
+    "description": "Residential flat parking with Type2 outlet. Rohini neighborhood, friendly host.",
+    "address": "Sector 7, Rohini, New Delhi 110085",
+    "lat": 28.721,
+    "lng": 77.108,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11.5,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch055",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Gurgaon Cyber Hub 120kW DC",
+    "description": "Fast charger at DLF Cyber Hub. Charge while dining at premium restaurants.",
+    "address": "DLF Cyber City, Gurugram, Haryana 122002",
+    "lat": 28.4949,
+    "lng": 77.088,
+    "connectorType": "CCS",
+    "speedKw": 120,
+    "pricePerKwh": 20,
+    "markupPercent": 45,
+    "photos": [
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch056",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "DLF Phase 2 Home AC – Gurgaon",
+    "description": "Home charger in DLF Phase 2 residential colony. Great connectivity to NH-48.",
+    "address": "Block C, DLF Phase 2, Gurugram, Haryana 122002",
+    "lat": 28.479,
+    "lng": 77.095,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch057",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Noida Sector 18 Market DC",
+    "description": "CHAdeMO charger at Atta Market parking. Great for shoppers.",
+    "address": "Sector 18, Noida, Uttar Pradesh 201301",
+    "lat": 28.569,
+    "lng": 77.321,
+    "connectorType": "CHAdeMO",
+    "speedKw": 50,
+    "pricePerKwh": 15,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch058",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Noida Sector 62 Society Home",
+    "description": "Type2 charger at home in Sector 62. Near NSEZ tech park. Very secure building.",
+    "address": "D-Block Society, Sector 62, Noida, UP 201309",
+    "lat": 28.621,
+    "lng": 77.365,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch060",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Manesar NH-48 Highway DC",
+    "description": "Fast charger on Delhi-Jaipur highway. Dhaba and restrooms nearby.",
+    "address": "NH-48, Manesar, Haryana 122051",
+    "lat": 28.359,
+    "lng": 76.937,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 17,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch061",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Neemrana Fort Highway DC",
+    "description": "CCS at Neemrana Fort Palace parking. Heritage tourism meets EV charging.",
+    "address": "NH-48, Neemrana, Rajasthan 301705",
+    "lat": 27.986,
+    "lng": 76.383,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 18,
+    "markupPercent": 45,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch070",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Koramangala 150kW DC Hub – Bangalore",
+    "description": "Ultra-fast charger at Koramangala tech park. Multiple CCS connectors.",
+    "address": "1st Block, Koramangala, Bangalore 560034",
+    "lat": 12.9352,
+    "lng": 77.6245,
+    "connectorType": "CCS",
+    "speedKw": 150,
+    "pricePerKwh": 21,
+    "markupPercent": 50,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch071",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Indiranagar 100ft Rd Home Charger – Blr",
+    "description": "AC wallbox in Indiranagar bungalow garage. Cafes and pubs within walking distance.",
+    "address": "82, 100 Feet Rd, Indiranagar, Bangalore 560038",
+    "lat": 12.9718,
+    "lng": 77.6411,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 14.5,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch072",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "HSR Layout Sector 3 Wallbox – Blr",
+    "description": "11kW Type2 in gated HSR Sector 3 home driveway. Suitable for all EV types.",
+    "address": "245, 19th Main, HSR Layout Sector 3, Bangalore 560102",
+    "lat": 12.91,
+    "lng": 77.645,
+    "connectorType": "Type2",
+    "speedKw": 11,
+    "pricePerKwh": 15,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch073",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Jayanagar 4th Block Home AC – Blr",
+    "description": "Private residential Type2 in quiet Jayanagar locality. Safe for daytime or overnight.",
+    "address": "18th Cross, Jayanagar 4th Block, Bangalore 560041",
+    "lat": 12.929,
+    "lng": 77.583,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch074",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Electronic City Home Bharat AC – Blr",
+    "description": "Bharat AC slow charger in EC Phase 1. Economical overnight charging option.",
+    "address": "Electronic City Phase 1, Bangalore 560100",
+    "lat": 12.84,
+    "lng": 77.661,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 9,
+    "markupPercent": 20,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch075",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Whitefield ITPL Fast DC – Blr",
+    "description": "60kW DC inside ITPL tech park. Perfect for IT professionals.",
+    "address": "ITPL Main Rd, Whitefield, Bangalore 560066",
+    "lat": 12.9698,
+    "lng": 77.75,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 18,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch080",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "HITEC City 120kW Fast DC – Hyderabad",
+    "description": "Multiple CCS bays in HITEC City IT hub. Best fast charger in Hyderabad.",
+    "address": "HITEC City, Hyderabad, Telangana 500081",
+    "lat": 17.4435,
+    "lng": 78.3772,
+    "connectorType": "CCS",
+    "speedKw": 120,
+    "pricePerKwh": 19,
+    "markupPercent": 45,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch081",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Banjara Hills Home AC – Hyderabad",
+    "description": "Home charger in posh Banjara Hills colony. Host: Dr. Reddy. Very welcoming.",
+    "address": "Road 10, Banjara Hills, Hyderabad 500034",
+    "lat": 17.414,
+    "lng": 78.448,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 14,
+    "markupPercent": 32,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch082",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Kondapur Residential AC – Hyderabad",
+    "description": "Type2 charger in Kondapur gated community. Great access from ORR.",
+    "address": "Kondapur Main Rd, Hyderabad 500084",
+    "lat": 17.468,
+    "lng": 78.362,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch083",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Charminar Local Bharat AC – Hyderabad",
+    "description": "Affordable Bharat AC near Charminar. Community charger for locals.",
+    "address": "Charminar, Hyderabad 500002",
+    "lat": 17.3616,
+    "lng": 78.4747,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 9,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch090",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "OMR IT Corridor 150kW DC – Chennai",
+    "description": "Ultra-fast charger for IT commuters on Old Mahabalipuram Road.",
+    "address": "OMR, Sholinganallur, Chennai 600119",
+    "lat": 12.901,
+    "lng": 80.2279,
+    "connectorType": "CCS",
+    "speedKw": 150,
+    "pricePerKwh": 20,
+    "markupPercent": 45,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch091",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "T Nagar Home AC – Chennai",
+    "description": "Type2 charger at T Nagar residential flat. Charge while shopping at Pondy Bazaar.",
+    "address": "Pondy Bazaar, T Nagar, Chennai 600017",
+    "lat": 13.0418,
+    "lng": 80.2341,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch092",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Velachery Residential AC – Chennai",
+    "description": "Home charger in Velachery near Phoenix Mall. Safe gated apartment.",
+    "address": "Velachery Main Rd, Velachery, Chennai 600042",
+    "lat": 12.975,
+    "lng": 80.217,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11.5,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch093",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Coimbatore RS Puram DC",
+    "description": "50kW CHAdeMO charger near RS Puram market. Restrooms available.",
+    "address": "RS Puram, Coimbatore 641002",
+    "lat": 11.0043,
+    "lng": 76.9558,
+    "connectorType": "CHAdeMO",
+    "speedKw": 50,
+    "pricePerKwh": 14,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch094",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Madurai Meenakshi Area Home AC",
+    "description": "Bharat AC near Meenakshi Temple. Affordable for pilgrims and locals.",
+    "address": "North Masi St, Madurai 625001",
+    "lat": 9.9195,
+    "lng": 78.1193,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 8,
+    "markupPercent": 20,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch100",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Kochi Marine Drive Home AC",
+    "description": "Scenic waterfront Type2 near Marine Drive promenade. Unique charging experience!",
+    "address": "Marine Drive, Ernakulam, Kochi 682031",
+    "lat": 9.9816,
+    "lng": 76.2757,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch101",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Trivandrum Technopark DC",
+    "description": "60kW DC inside Technopark campus. Best for IT employees.",
+    "address": "Technopark, Trivandrum 695581",
+    "lat": 8.5568,
+    "lng": 76.8816,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 17,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch102",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Kozhikode Home Bharat AC – Kerala",
+    "description": "Home AC charger near Calicut Beach. Host: Anees. Very friendly host.",
+    "address": "Palayam, Kozhikode, Kerala 673004",
+    "lat": 11.251,
+    "lng": 75.78,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 9,
+    "markupPercent": 22,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch110",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Panjim Beach Road DC – Goa",
+    "description": "Tourist-friendly CCS charger near Miramar Beach. Perfect for rental EV tourists.",
+    "address": "DB Marg, Panjim, Goa 403001",
+    "lat": 15.4989,
+    "lng": 73.8278,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 18,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch111",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Calangute Villa Home Charger – Goa",
+    "description": "Type2 charger at a villa near Calangute beach. Host: Carlos. Great for tourists.",
+    "address": "Calangute, North Goa 403516",
+    "lat": 15.544,
+    "lng": 73.752,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 16,
+    "markupPercent": 38,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch120",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Salt Lake Sector V DC – Kolkata",
+    "description": "60kW DC at Salt Lake IT hub. Popular among tech commuters.",
+    "address": "Sector V, Salt Lake, Kolkata 700091",
+    "lat": 22.5744,
+    "lng": 88.4344,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 16,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch121",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Park Street Home AC – Kolkata",
+    "description": "Type2 charger at Park Street residential area. Explore Kolkata heritage zone.",
+    "address": "Park Street, Kolkata 700016",
+    "lat": 22.552,
+    "lng": 88.3508,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch122",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Lake Town Home Driveway – Kolkata",
+    "description": "Private driveway in Lake Town. Host: Subhankar da. Very cooperative.",
+    "address": "Lake Town, Block B, Kolkata 700089",
+    "lat": 22.597,
+    "lng": 88.392,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11.5,
+    "markupPercent": 26,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch123",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Bhubaneswar Patia Society AC",
+    "description": "AC charger near KIIT University. Popular with students and residents.",
+    "address": "Patia, Bhubaneswar, Odisha 751024",
+    "lat": 20.354,
+    "lng": 85.819,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 10,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch130",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Jaipur MI Road Fast DC",
+    "description": "CCS fast charger at heritage hotel on MI Road. Great lounge access.",
+    "address": "MI Road, Jaipur, Rajasthan 302001",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 18,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch131",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "C-Scheme Home AC – Jaipur",
+    "description": "Residential home charger in posh C-Scheme. Host: Sharma ji. Very accessible.",
+    "address": "C-Scheme, Jaipur, Rajasthan 302001",
+    "lat": 26.905,
+    "lng": 75.8,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch132",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Udaipur Fateh Sagar DC",
+    "description": "Scenic CCS charger near Fateh Sagar Lake. City of Lakes + EV charging!",
+    "address": "Fateh Sagar Rd, Udaipur, Rajasthan 313001",
+    "lat": 24.5926,
+    "lng": 73.678,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 16,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch133",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Jodhpur Ratanada Home Charger",
+    "description": "Type2 at Ratanada bungalow. Near Umaid Bhawan Palace.",
+    "address": "Ratanada, Jodhpur, Rajasthan 342001",
+    "lat": 26.276,
+    "lng": 73.014,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 26,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch140",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Chandigarh Sector 17 DC",
+    "description": "High-speed DC at Chandigarh Sector 17 plaza. Premium city center location.",
+    "address": "Sector 17, Chandigarh 160017",
+    "lat": 30.7412,
+    "lng": 76.7838,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 16,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch141",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Sector 8 Home AC – Chandigarh",
+    "description": "Home charger in a beautiful Sector 8 house. Very clean and organized host.",
+    "address": "House 123, Sector 8, Chandigarh 160008",
+    "lat": 30.73,
+    "lng": 76.778,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch142",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Amritsar Golden Temple Rd Bharat AC",
+    "description": "Local Bharat AC near Golden Temple. Affordable for pilgrims and tourists.",
+    "address": "Golden Temple Rd, Amritsar, Punjab 143001",
+    "lat": 31.62,
+    "lng": 74.8765,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 8,
+    "markupPercent": 20,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch143",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Dehradun Rajpur Road Charger",
+    "description": "Type2 at a cafe on Rajpur Road. Charge your EV while enjoying mountain views!",
+    "address": "Rajpur Road, Dehradun, Uttarakhand 248001",
+    "lat": 30.3565,
+    "lng": 78.058,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch150",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Hazratganj Home AC – Lucknow",
+    "description": "Type2 charger in Hazratganj. Nawabi city going EV!",
+    "address": "Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "lat": 26.853,
+    "lng": 80.9468,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 10.5,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch151",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Varanasi Lanka Home Charger",
+    "description": "Bharat AC near BHU campus. Ghat city meets green mobility!",
+    "address": "Lanka, Varanasi, Uttar Pradesh 221005",
+    "lat": 25.268,
+    "lng": 82.994,
+    "connectorType": "Bharat AC",
+    "speedKw": 3.3,
+    "pricePerKwh": 8.5,
+    "markupPercent": 22,
+    "photos": [
+      "https://images.unsplash.com/photo-1616432043562-3671ea2e5259?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch152",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Agra Fatehabad Road DC – near Taj Mahal",
+    "description": "CCS near Taj Mahal vicinity. Charge your EV while you see the wonder!",
+    "address": "Fatehabad Rd, near Taj Mahal, Agra, UP 282001",
+    "lat": 27.168,
+    "lng": 78.042,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 18,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z",
+    "updatedAt": "2026-06-14T04:12:04.005Z"
+  },
+  {
+    "_id": "ch160",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Mathura Yamuna Expressway DC",
+    "description": "DC fast charger at Yamuna Expressway rest area. On the way to Agra.",
+    "address": "Yamuna Expressway, Mathura, UP 281001",
+    "lat": 27.4924,
+    "lng": 77.6737,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 16,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch161",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Nagpur Wardha Rd NH-44 Highway DC",
+    "description": "Highway charger on NH-44. Truck stop with food stalls nearby.",
+    "address": "Wardha Rd, NH-44, Nagpur, Maharashtra 440015",
+    "lat": 21.0918,
+    "lng": 79.126,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 15,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch162",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Ratnagiri NH-66 Coastal DC",
+    "description": "Coastal highway charger between Mumbai and Goa. Seafood restaurant nearby.",
+    "address": "NH-66, Ratnagiri, Maharashtra 415612",
+    "lat": 16.9944,
+    "lng": 73.3,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 17,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch163",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Vellore NH-46 Blr-Chennai DC",
+    "description": "CCS on NH-46 between Bangalore and Chennai. South Indian food dhaba.",
+    "address": "NH-46, Vellore, Tamil Nadu 632001",
+    "lat": 12.9165,
+    "lng": 79.1325,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 16,
+    "markupPercent": 40,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch164",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Anantapur NH-44 Blr-Hyd DC",
+    "description": "Highway DC on India's longest national highway. Rest area with food court.",
+    "address": "NH-44, Anantapur, Andhra Pradesh 515001",
+    "lat": 14.6819,
+    "lng": 77.6006,
+    "connectorType": "CCS",
+    "speedKw": 60,
+    "pricePerKwh": 15,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch170",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Guwahati GS Road DC – Assam",
+    "description": "First fast charger in Guwahati. Located near Ganeshguri flyover.",
+    "address": "GS Road, Ganeshguri, Guwahati, Assam 781006",
+    "lat": 26.1486,
+    "lng": 91.7745,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 16,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch171",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Ulubari Home AC – Guwahati",
+    "description": "Home charger in Ulubari neighborhood. First peer-to-peer charger in NE India!",
+    "address": "Ulubari, Guwahati, Assam 781007",
+    "lat": 26.178,
+    "lng": 91.749,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch172",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Shillong Police Bazaar Community AC",
+    "description": "Community AC charger. Scotland of the East goes electric!",
+    "address": "Police Bazaar, Shillong, Meghalaya 793001",
+    "lat": 25.5729,
+    "lng": 91.8787,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch180",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Srinagar Dal Lake Home AC – J&K",
+    "description": "AC charger near Dal Lake. Charge while enjoying houseboat life in Kashmir!",
+    "address": "Boulevard Road, Dal Lake, Srinagar, J&K 190001",
+    "lat": 34.0911,
+    "lng": 74.856,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 14,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch181",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Shimla Mall Road AC Charger – HP",
+    "description": "Type2 near Shimla Mall Road. Charge while enjoying the Himalayan breeze.",
+    "address": "Mall Road, Shimla, Himachal Pradesh 171001",
+    "lat": 31.104,
+    "lng": 77.173,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 13,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch190",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Bhopal New Market DC",
+    "description": "CCS fast charger near Upper Lake. Clean area, food stalls nearby.",
+    "address": "New Market, Bhopal, Madhya Pradesh 462003",
+    "lat": 23.2332,
+    "lng": 77.4263,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 15,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch191",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Arera Colony Home AC – Bhopal",
+    "description": "Private driveway in Arera Colony. Clean and quiet locality.",
+    "address": "E-4 Arera Colony, Bhopal, MP 462016",
+    "lat": 23.21,
+    "lng": 77.455,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 26,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch192",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Indore Vijay Nagar Home AC",
+    "description": "Type2 in India's cleanest city! Near Treasure Island Mall.",
+    "address": "Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "lat": 22.7533,
+    "lng": 75.8937,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch193",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Raipur Telibandha Lake DC",
+    "description": "Local DC charger near Telibandha Lake. Peaceful area with walking trails.",
+    "address": "Telibandha, Raipur, Chhattisgarh 492001",
+    "lat": 21.2415,
+    "lng": 81.6296,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 13,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch200",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Patna Boring Road DC Charger",
+    "description": "CCS at a mall parking on Boring Road, Patna. Food court inside.",
+    "address": "Boring Rd, Patna, Bihar 800001",
+    "lat": 25.6093,
+    "lng": 85.1376,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 14,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch201",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Ranchi Lalpur Home AC – Jharkhand",
+    "description": "Home charger in Ranchi city. Host: Rahul. First EV home charger in Jharkhand!",
+    "address": "Lalpur, Ranchi, Jharkhand 834001",
+    "lat": 23.358,
+    "lng": 85.334,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 25,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch210",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Mysore Devaraja Market Local AC",
+    "description": "Type2 near Devaraja Market. Explore heritage Mysore while charging.",
+    "address": "Dhanvanthri Rd, Mysore, Karnataka 570001",
+    "lat": 12.3051,
+    "lng": 76.6551,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 30,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch211",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Mangalore Hampankatta AC",
+    "description": "Type2 in Mangalore city center. Coastal city going EV!",
+    "address": "Hampankatta, Mangalore, Karnataka 575001",
+    "lat": 12.869,
+    "lng": 74.843,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 28,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch212",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Nashik College Road Fast DC",
+    "description": "CCS near Nashik wine country. Restaurant with garden seating.",
+    "address": "College Road, Nashik, Maharashtra 422005",
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 17,
+    "markupPercent": 35,
+    "photos": [
+      "https://images.unsplash.com/photo-1558441719-ff34b0524a24?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch213",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Kolkata Ballygunge Home Charger",
+    "description": "Private home driveway in Ballygunge. Host: Deb babu. Very clean area.",
+    "address": "Ballygunge Place, Kolkata 700019",
+    "lat": 22.528,
+    "lng": 88.364,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 24,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223061-e5d05a415668?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch214",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Thiruvananthapuram Home AC – Kerala",
+    "description": "Residential AC near Kowdiar. Host: Nair sir. Peaceful area close to Secretariat.",
+    "address": "Kowdiar, Thiruvananthapuram, Kerala 695003",
+    "lat": 8.516,
+    "lng": 76.946,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 12,
+    "markupPercent": 27,
+    "photos": [
+      "https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "ch215",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Nashik Gangapur Road Home AC",
+    "description": "Home charger in Nashik residential area. Quiet lane, covered spot available.",
+    "address": "Gangapur Road, Nashik, Maharashtra 422013",
+    "lat": 20.015,
+    "lng": 73.774,
+    "connectorType": "Type2",
+    "speedKw": 7.4,
+    "pricePerKwh": 11,
+    "markupPercent": 26,
+    "photos": [
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "qhqi3uk01d9c9",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Adajan Fast Ch arger",
+    "description": "",
+    "address": "Adajan, Surat",
+    "lat": 21.1702,
+    "lng": 72.8311,
+    "connectorType": "CCS",
+    "speedKw": 50,
+    "pricePerKwh": 18,
+    "markupPercent": 50,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "updatedAt": "2026-06-14T04:01:39.472Z",
+    "createdAt": "2026-06-14T04:01:39.473Z"
+  },
+  {
+    "_id": "oqlznis49d9hs",
+    "merchantId": "666a2b3c4d5e6f7a8b9c0d01",
+    "title": "Adajan Fast Charger",
+    "description": "",
+    "address": "Adajan, Surat",
+    "lat": 21.17212117,
+    "lng": 72.837283,
+    "connectorType": "Bharat AC",
+    "speedKw": 50,
+    "pricePerKwh": 15,
+    "markupPercent": 50,
+    "photos": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80"
+    ],
+    "isLive": true,
+    "updatedAt": "2026-06-14T04:05:57.174Z",
+    "createdAt": "2026-06-14T04:05:57.174Z"
+  }
+]

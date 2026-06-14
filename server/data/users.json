@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "666a2b3c4d5e6f7a8b9c0d01",
+    "name": "Rajesh Sharma (Host)",
+    "email": "host@evnest.com",
+    "password": "$2a$10$PIvIxhntPrnavuMPd2Tiluq2vn4nNoZOjBLcN1iMaXm7R2APTtwPy",
+    "role": "merchant",
+    "carModel": "",
+    "batteryCapacityKwh": 0,
+    "createdAt": "2026-06-13T04:25:01.629Z"
+  },
+  {
+    "_id": "666a2b3c4d5e6f7a8b9c0d02",
+    "name": "Amit Patel (Driver)",
+    "email": "user@evnest.com",
+    "password": "$2a$10$PIvIxhntPrnavuMPd2Tiluq2vn4nNoZOjBLcN1iMaXm7R2APTtwPy",
+    "role": "user",
+    "carModel": "Tata Nexon EV Max",
+    "batteryCapacityKwh": 40.5,
+    "createdAt": "2026-06-13T04:25:01.629Z"
+  },
+  {
+    "_id": "hoc6qt8snc00x",
+    "name": "hhfgjhj",
+    "email": "samncsbdh@jxajhcvc",
+    "password": "$2a$10$woU3Jj/HMPwoB.ZvhU05Iu/GLEmEvRSCsRi3XoRRsHVYfFsRiKj0i",
+    "role": "user",
+    "carModel": "Mahindra XUV400",
+    "batteryCapacityKwh": 39.4,
+    "createdAt": "2026-06-13T06:53:08.306Z",
+    "updatedAt": "2026-06-13T06:53:08.306Z"
+  },
+  {
+    "_id": "8noqw81mzd821",
+    "name": "samncsbdh@jxajhcvcdassd",
+    "email": "scdcs@wdafd",
+    "password": "$2a$10$08UNVaJMEOtfngehuu9Kq.tULCR9hDwvqIPprovad1ETn.kNmn.Em",
+    "role": "user",
+    "carModel": "Tata Tigor EV",
+    "batteryCapacityKwh": 26,
+    "createdAt": "2026-06-14T03:25:43.711Z",
+    "updatedAt": "2026-06-14T03:25:43.711Z"
+  }
+]

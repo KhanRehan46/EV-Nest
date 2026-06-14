@@ -1,0 +1,97 @@
+[
+  {
+    "_id": "666d00000000000000000001",
+    "userId": "666a2b3c4d5e6f7a8b9c0d02",
+    "chargerId": "666c00000000000000000001",
+    "scheduledAt": "2026-06-11T15:26:16.541Z",
+    "durationMinutes": 60,
+    "estimatedCost": 47.925000000000004,
+    "status": "completed",
+    "paymentId": "pay_mock_12345",
+    "createdAt": "2026-06-11T15:26:16.541Z"
+  },
+  {
+    "_id": "wu1aa2c6mbuav",
+    "userId": "go8z58nagbu7k",
+    "chargerId": "666c00000000000000000003",
+    "scheduledAt": "2026-06-14T04:30:00.000Z",
+    "durationMinutes": 60,
+    "estimatedCost": 300,
+    "status": "confirmed",
+    "paymentId": "pay_mock_pzig13oml8",
+    "updatedAt": "2026-06-13T04:28:57.722Z",
+    "createdAt": "2026-06-13T04:12:54.453Z"
+  },
+  {
+    "_id": "t2uq81it7bugf",
+    "userId": "6idbq2p9vbufc",
+    "chargerId": "666c00000000000000000001",
+    "scheduledAt": "2026-06-14T04:30:00.000Z",
+    "durationMinutes": 60,
+    "estimatedCost": 462.5,
+    "status": "cancelled",
+    "paymentId": "pay_mock_lmdzw4fvye",
+    "updatedAt": "2026-06-13T04:29:00.367Z",
+    "createdAt": "2026-06-13T04:17:14.452Z"
+  },
+  {
+    "_id": "rrp3y42v6buip",
+    "userId": "jst6f7oewbui3",
+    "chargerId": "666c00000000000000000008",
+    "scheduledAt": "2026-06-14T04:30:00.000Z",
+    "durationMinutes": 60,
+    "estimatedCost": 275,
+    "status": "confirmed",
+    "paymentId": "pay_mock_opmdnhap64",
+    "updatedAt": "2026-06-13T04:29:08.925Z",
+    "createdAt": "2026-06-13T04:18:59.741Z"
+  },
+  {
+    "_id": "508itjicebvj9",
+    "userId": "666a2b3c4d5e6f7a8b9c0d02",
+    "chargerId": "666c00000000000000000001",
+    "scheduledAt": "2026-06-14T04:30:00.000Z",
+    "durationMinutes": 60,
+    "estimatedCost": 462.5,
+    "status": "pending",
+    "paymentId": "pay_mock_orv8zryw5u",
+    "updatedAt": "2026-06-13T04:47:26.158Z",
+    "createdAt": "2026-06-13T04:47:26.159Z"
+  },
+  {
+    "_id": "52ez5yxxqc1oj",
+    "userId": "666a2b3c4d5e6f7a8b9c0d01",
+    "chargerId": "9z78mrbqhc0hx",
+    "scheduledAt": "2026-06-14T04:30:00.000Z",
+    "durationMinutes": 60,
+    "estimatedCost": 375,
+    "status": "pending",
+    "paymentId": "pay_mock_l572zbsqbt",
+    "updatedAt": "2026-06-13T07:39:30.038Z",
+    "createdAt": "2026-06-13T07:39:30.038Z"
+  },
+  {
+    "_id": "9uovor4y7d7ds",
+    "userId": "666a2b3c4d5e6f7a8b9c0d01",
+    "chargerId": "ch001",
+    "scheduledAt": "2026-06-15T04:30:00.000Z",
+    "durationMinutes": 60,
+    "estimatedCost": 287.5,
+    "status": "completed",
+    "paymentId": "pay_mock_xoo81gg9lt",
+    "updatedAt": "2026-06-14T03:24:03.298Z",
+    "createdAt": "2026-06-14T03:06:51.446Z"
+  },
+  {
+    "_id": "pllu9oxbgdqby",
+    "userId": "666a2b3c4d5e6f7a8b9c0d02",
+    "chargerId": "ch004",
+    "scheduledAt": "2026-06-15T04:30:00.000Z",
+    "durationMinutes": 60,
+    "estimatedCost": 275,
+    "status": "pending",
+    "paymentId": "pay_mock_70xdo7xwmh",
+    "updatedAt": "2026-06-14T11:57:18.882Z",
+    "createdAt": "2026-06-14T11:57:18.882Z"
+  }
+]
