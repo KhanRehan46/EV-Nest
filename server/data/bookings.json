@@ -89,9 +89,9 @@
     "scheduledAt": "2026-06-15T04:30:00.000Z",
     "durationMinutes": 60,
     "estimatedCost": 275,
-    "status": "pending",
+    "status": "confirmed",
     "paymentId": "pay_mock_70xdo7xwmh",
-    "updatedAt": "2026-06-14T11:57:18.882Z",
+    "updatedAt": "2026-06-14T15:43:37.586Z",
     "createdAt": "2026-06-14T11:57:18.882Z"
   }
 ]
